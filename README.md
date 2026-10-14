@@ -1,116 +1,76 @@
 # SaffireScale Architecture Practice
 
-Enterprise cloud architecture practice focused on **Multi-Tenant SaaS platforms** and **Embedded Finance systems**.
+Enterprise cloud architecture, platform engineering, and industrial software innovation.
 
-We design **governance-first cloud architectures** that support tenant isolation, operational resilience, predictable deployments, and enterprise scale.
-
-Our work emphasizes **system design clarity, platform foundations, and production-grade reliability** across AWS and Kubernetes ecosystems.
-
----
+I design governance-first cloud architectures that support scalable SaaS platforms, operational resilience, secure deployments, and enterprise readiness across AWS and Kubernetes ecosystems.
 
 ## Architecture Focus
 
-• Multi-Tenant SaaS Platform Architecture  
-• Embedded Finance & FinTech Infrastructure  
-• Kubernetes Platform Foundations  
-• AWS Enterprise Cloud Architecture  
-• Zero-Downtime Deployment Strategies  
-• Cloud Cost Governance & FinOps  
-• Platform Observability & Operational Resilience  
-
----
+- Multi-Tenant SaaS Platform Architecture
+- Embedded Finance & FinTech Infrastructure
+- AWS Enterprise Cloud Architecture
+- Kubernetes Platform Foundations
+- CI/CD & Deployment Governance
+- Cloud Cost Optimization & FinOps
+- Observability, Reliability & Disaster Recovery
 
 ## Architecture Principles
 
-1. **Tenant isolation must be provable.**  
-2. **Governance precedes scale.**  
-3. **Failure scenarios must be designed before deployment.**  
-4. **Observability is part of architecture, not an afterthought.**  
-5. **Infrastructure automation ensures operational consistency.**
-
----
+1. Tenant isolation must be provable.
+2. Governance precedes scale.
+3. Failure scenarios must be designed before deployment.
+4. Observability is part of architecture, not an afterthought.
+5. Infrastructure automation ensures operational consistency.
 
 ## Featured Architecture Blueprint
 
 ### Scalable Multi-Tenant SaaS Architecture
 
-Production-ready architecture blueprint for designing and scaling multi-tenant SaaS platforms on AWS.
+A production-style architecture blueprint for designing and scaling multi-tenant SaaS platforms on AWS.
 
 Includes:
-
-- Control Plane / Data Plane separation
+- Control plane and data plane separation
 - Tenant isolation strategies
 - Kubernetes microservices architecture
-- Async processing and queue-based scaling
-- Observability stack (Prometheus, Grafana, Loki)
+- Asynchronous processing and queue-based scaling
+- Observability with Prometheus, Grafana and Loki
 - Infrastructure-as-Code examples with Terraform
 - Architecture decision records and review frameworks
 
-Repository:
-
-🔗 https://github.com/saffirescale/scalable-multi-tenant-saas-architecture
+Repository: [Scalable Multi-Tenant SaaS Architecture](https://github.com/saffirescale/scalable-multi-tenant-saas-architecture)
 
 ---
 
-## Architecture Models
+## Industrial Automation Initiative — SSIAS
 
-This GitHub workspace includes architecture blueprints covering:
+**Smart Industrial Operations. Simplified.**
 
-| Domain | Architecture Model |
-|------|------|
-Multi-Tenant SaaS | Scalable SaaS architecture blueprint |
-Embedded Finance | Enterprise fintech platform architecture |
-Platform Engineering | Kubernetes enterprise foundation |
-Cloud Governance | AWS enterprise platform foundation |
-Deployment Strategy | Zero-downtime release governance |
-FinOps | Cloud cost governance framework |
+SSIAS (SS Industry Automation System) is an industrial operations platform initiative focused on helping small and mid-sized manufacturers improve operational visibility and reduce manual workflows.
 
----
+### Product Focus
 
-## Architecture Toolkit
+- Production and OEE visibility
+- Maintenance and machine issue workflows
+- Procurement and sales operations
+- AI-assisted machine error troubleshooting
+- Role-based industrial operations dashboards
+- On-premise/edge and AWS deployment approaches
 
-Each architecture blueprint includes structured design artifacts:
+### Engineering Direction
 
-• Architecture diagrams  
-• System context and container views (C4 model)  
-• Multi-tenant isolation strategies  
-• Failure scenario analysis  
-• Infrastructure automation examples  
-• Architecture review checklists  
-• Operational observability models  
+Building practical industrial software that connects operational workflows, manufacturing data, and AI-assisted decision support.
 
-These artifacts reflect **real platform architecture design processes used in enterprise SaaS systems.**
+The focus is on solving real shop-floor problems through usable dashboards, automation, and progressively intelligent capabilities.
 
 ---
 
-## Typical Engagement Areas
+## Engineering Approach
 
-Architecture consulting engagements typically focus on:
+- Infrastructure as Code
+- Reproducible deployments
+- Security and governance by design
+- Automation-first engineering
+- Reliability and cost awareness
+- Clear architecture documentation
 
-• Designing scalable SaaS platform architectures  
-• Reviewing existing system architecture for scaling risks  
-• Multi-tenant platform design and tenant isolation strategy  
-• Platform engineering foundations for Kubernetes environments  
-• Cloud governance and cost optimization frameworks  
-
----
-
-## About SaffireScale
-
-SaffireScale is an architecture practice dedicated to building **resilient SaaS platforms and financial infrastructure systems**.
-
-The focus is on **design clarity, operational discipline, and platform scalability** for cloud-native systems.
-
----
-
-## Architecture Blueprint Preview
-
-![scalable-multi-tenant-saas-architecture](https://github.com/saffirescale/scalable-multi-tenant-saas-architecture/blob/main/diagrams/saas-architecture.png)
-
----
-
-## Contact
-
-Architecture discussions and collaboration inquiries are welcome.
-
-GitHub: https://github.com/saffirescale
+**Focus:** Building systems that are understandable, secure, scalable, and operationally resilient.
